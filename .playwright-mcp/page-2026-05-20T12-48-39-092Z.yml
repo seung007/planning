@@ -1,0 +1,373 @@
+- generic [active] [ref=e1]:
+  - generic [ref=e3]:
+    - generic [ref=e4]:
+      - link [ref=e5] [cursor=pointer]:
+        - /url: /
+        - img [ref=e6]
+      - link [ref=e7] [cursor=pointer]:
+        - /url: https://qletter.i-boss.co.kr
+        - img [ref=e8]
+      - paragraph [ref=e9] [cursor=pointer]: 뉴스레터 구독하기
+    - generic [ref=e11]:
+      - generic [ref=e14]:
+        - generic [ref=e15]:
+          - heading "자석처럼 끌어당기는 카피 노하우 35개" [level=1] [ref=e17]
+          - generic [ref=e18]:
+            - paragraph [ref=e19]: 2022-08-18
+            - emphasis [ref=e20]
+            - paragraph [ref=e21]: 김매니저
+            - emphasis [ref=e22]
+            - paragraph [ref=e23]: 13,917
+            - emphasis [ref=e25]
+            - paragraph [ref=e26]: "8"
+        - generic [ref=e28]:
+          - paragraph [ref=e29]:
+            - img [ref=e30] [cursor=pointer]
+          - paragraph [ref=e31]
+          - paragraph [ref=e32]:
+            - text: 모든 것을 결정하는 한 줄, 카피 작성이 어려운 분들을 위해 준비했습니다.
+            - text: 자석처럼 끌어당길 수 있는 매력적인 카피라이팅이 하고 싶다면 지금 바로 확인해 보세요.
+          - paragraph [ref=e33]
+          - paragraph
+          - paragraph [ref=e34]:
+            - link "· 매력적인 카피 작성을 위한 카피라이팅 7원칙" [ref=e35] [cursor=pointer]:
+              - /url: https://www.i-boss.co.kr/ab-6141-37900?ref=ab-6141-58445&ibfs=JE6LV7B8
+          - paragraph [ref=e36]:
+            - link "· 클릭을 부르는 카피 작성을 위한 습관 3가지" [ref=e37] [cursor=pointer]:
+              - /url: https://www.i-boss.co.kr/ab-6141-55725?ref=ab-6141-58445&ibfs=JE6LV7B8
+          - paragraph [ref=e38]:
+            - link "· 카피 액기스 한눈에 보는 방법" [ref=e39] [cursor=pointer]:
+              - /url: https://www.i-boss.co.kr/ab-6141-52572?ref=ab-6141-58445&ibfs=JE6LV7B8
+          - paragraph [ref=e40]:
+            - link "·" [ref=e41] [cursor=pointer]:
+              - /url: https://www.i-boss.co.kr/ab-3208-186?ref=ab-6141-58445&ibfs=JE6LV7B8
+            - link "오랫동안 기억에 남는 광고카피 모음 60개" [ref=e43] [cursor=pointer]:
+              - /url: https://www.i-boss.co.kr/ab-3208-186?ref=ab-6141-58445&ibfs=JE6LV7B8
+          - paragraph [ref=e44]:
+            - link "· 클릭율 높이는 카피문구 작성요령 7가지" [ref=e45] [cursor=pointer]:
+              - /url: https://www.i-boss.co.kr/ab-6141-4226?ref=ab-6141-58445&ibfs=JE6LV7B8
+          - paragraph [ref=e46]:
+            - link "· 카피 쓸 때 반드시 피해야 할 8가지" [ref=e47] [cursor=pointer]:
+              - /url: https://www.i-boss.co.kr/ab-6141-21733?ref=ab-6141-58445&ibfs=JE6LV7B8
+          - paragraph [ref=e48]:
+            - link "· 카피 쓰다 막힐 때마다 꺼내 읽어요 📖" [ref=e49] [cursor=pointer]:
+              - /url: https://www.i-boss.co.kr/ab-5637-28?ref=ab-6141-58445&ibfs=JE6LV7B8
+          - paragraph [ref=e50]:
+            - link "· 세상 어려운 카피 짜기, 이거 하나만 읽어보세요" [ref=e51] [cursor=pointer]:
+              - /url: https://www.i-boss.co.kr/ab-6141-57060?ref=ab-6141-58445&ibfs=JE6LV7B8
+          - paragraph [ref=e52]:
+            - link "· 광고 소재 기획은 해야겠고 머리는 안 굴러갈 때?" [ref=e53] [cursor=pointer]:
+              - /url: https://www.i-boss.co.kr/ab-6141-57274?ref=ab-6141-58445&ibfs=JE6LV7B8
+          - paragraph [ref=e54]:
+            - link "· 10분만에 마스터하는 후킹주는 법" [ref=e55] [cursor=pointer]:
+              - /url: https://www.i-boss.co.kr/ab-6141-57338?ref=ab-6141-58445&ibfs=JE6LV7B8
+          - paragraph [ref=e56]:
+            - link "· 성공적인 광고 카피 쓰는법" [ref=e57] [cursor=pointer]:
+              - /url: https://www.i-boss.co.kr/ab-6141-52761?ref=ab-6141-58445&ibfs=JE6LV7B8
+          - paragraph [ref=e58]:
+            - link "· 따라만하세요, 카피걱정 없애드릴게요" [ref=e59] [cursor=pointer]:
+              - /url: https://www.i-boss.co.kr/ab-6141-56595?ref=ab-6141-58445&ibfs=JE6LV7B8
+          - paragraph [ref=e60]:
+            - link "· 개인적으로 광고 카피 문구 맛집이라고 생각하는 곳" [ref=e61] [cursor=pointer]:
+              - /url: https://www.i-boss.co.kr/ab-1486505-37450?ref=ab-6141-58445&ibfs=JE6LV7B8
+          - paragraph [ref=e62]:
+            - link "· 카피 문구를 바꿨을 뿐인데 역대급 매출 기록" [ref=e63] [cursor=pointer]:
+              - /url: https://www.i-boss.co.kr/ab-6141-56657?ref=ab-6141-58445&ibfs=JE6LV7B8
+          - paragraph [ref=e64]:
+            - link "· GFA로 평소매출 3배~10배 올린 카피만드는 핵심 정보 [광고비 2달만에 30억이상 써봄]" [ref=e65] [cursor=pointer]:
+              - /url: https://www.i-boss.co.kr/ab-6141-52194?ref=ab-6141-58445&ibfs=JE6LV7B8
+          - paragraph [ref=e66]:
+            - link "· 온라인 MD 이야기 30. MD의 카피라이팅" [ref=e67] [cursor=pointer]:
+              - /url: https://www.i-boss.co.kr/ab-6141-37311?ref=ab-6141-58445&ibfs=JE6LV7B8
+          - paragraph [ref=e68]:
+            - link "· 고객이 외면하게 만드는 브랜드의 카피법" [ref=e69] [cursor=pointer]:
+              - /url: https://www.i-boss.co.kr/ab-6141-58427?ref=ab-6141-58445&ibfs=JE6LV7B8
+          - paragraph [ref=e70]:
+            - link "· 창의력 부족한 신입 마케터가 카피짜는 꿀TIP!" [ref=e71] [cursor=pointer]:
+              - /url: https://www.i-boss.co.kr/ab-6141-58334?ref=ab-6141-58445&ibfs=JE6LV7B8
+          - paragraph [ref=e72]:
+            - link "· [작지 시리즈] 마케팅하는 디자이너가 카피 짜는 꿀팁 공유" [ref=e73] [cursor=pointer]:
+              - /url: https://www.i-boss.co.kr/ab-6141-55242?ref=ab-6141-58445&ibfs=JE6LV7B8
+          - paragraph [ref=e74]:
+            - link "· [작지 시리즈] 마케팅하는 디자이너의 카피 짜는 꿀팁 공유2" [ref=e75] [cursor=pointer]:
+              - /url: https://www.i-boss.co.kr/ab-6141-56443?ref=ab-6141-58445&ibfs=JE6LV7B8
+          - paragraph [ref=e76]:
+            - link "· [카피꿀팁#1] 이걸 잘못 짚으면 매출이 안 나옵니다." [ref=e77] [cursor=pointer]:
+              - /url: https://www.i-boss.co.kr/ab-6141-58051?ref=ab-6141-58445&ibfs=JE6LV7B8
+          - paragraph [ref=e78]:
+            - link "· [카피꿀팁#2] 잘못 따라하면 매출 하락하는 카피" [ref=e79] [cursor=pointer]:
+              - /url: https://www.i-boss.co.kr/ab-6141-58335?ref=ab-6141-58445&ibfs=JE6LV7B8
+          - paragraph [ref=e80]:
+            - link "· 웹카피 7단계 전략, 1000억대 쇼핑몰 운영자도 배우는 상세페이지 비법" [ref=e81] [cursor=pointer]:
+              - /url: https://www.i-boss.co.kr/ab-6141-55062?ref=ab-6141-58445&ibfs=JE6LV7B8
+          - paragraph [ref=e82]:
+            - link "· 왜 고객들이 구매를 안하나요? 상세페이지 전환율 30% 오르는 비밀" [ref=e83] [cursor=pointer]:
+              - /url: https://www.i-boss.co.kr/ab-6141-55237?ref=ab-6141-58445&ibfs=JE6LV7B8
+          - paragraph [ref=e84]:
+            - link "· 왜 고객들이 3초만에 나갈까요? 이탈율 40% 감소시킨 미국식 카피!" [ref=e85] [cursor=pointer]:
+              - /url: https://www.i-boss.co.kr/ab-6141-54773?ref=ab-6141-58445&ibfs=JE6LV7B8
+          - paragraph [ref=e86]:
+            - link "· 검색의도란 무엇이고 왜 알아야 하는가" [ref=e87] [cursor=pointer]:
+              - /url: https://www.i-boss.co.kr/ab-6141-57170?ref=ab-6141-58445&ibfs=JE6LV7B8
+          - paragraph [ref=e88]:
+            - link "· [기본상식] 홈페이지 하단에 회사정보(카피라이트) 를 넣은 이유" [ref=e89] [cursor=pointer]:
+              - /url: https://www.i-boss.co.kr/ab-6141-50898?ref=ab-6141-58445&ibfs=JE6LV7B8
+          - paragraph [ref=e90]:
+            - link "· 가을, 추석 감성을 담은 광고 카피 모음" [ref=e91] [cursor=pointer]:
+              - /url: https://www.i-boss.co.kr/ab-6141-52305?ref=ab-6141-58445&ibfs=JE6LV7B8
+          - paragraph [ref=e92]:
+            - link "· 겨울을 준비하는 마케터를 위한 광고카피 모음" [ref=e93] [cursor=pointer]:
+              - /url: https://www.i-boss.co.kr/ab-6141-53237?ref=ab-6141-58445&ibfs=JE6LV7B8
+          - paragraph [ref=e94]:
+            - link "· 여름을 준비하는 마케터를 위한 광고 카피문구 모음" [ref=e95] [cursor=pointer]:
+              - /url: https://www.i-boss.co.kr/ab-6141-55344?ref=ab-6141-58445&ibfs=JE6LV7B8
+          - paragraph [ref=e96]:
+            - link "·" [ref=e97] [cursor=pointer]:
+              - /url: https://www.i-boss.co.kr/ab-6141-54704?ref=ab-6141-58445&ibfs=JE6LV7B8
+            - link "벌써 봄 이벤트 준비할 때! 마케터를 위한 광고카피 모음" [ref=e99] [cursor=pointer]:
+              - /url: https://www.i-boss.co.kr/ab-6141-54704?ref=ab-6141-58445&ibfs=JE6LV7B8
+          - paragraph [ref=e100]:
+            - link "·" [ref=e101] [cursor=pointer]:
+              - /url: https://www.i-boss.co.kr/ab-6141-40183?ref=ab-6141-58445&ibfs=JE6LV7B8
+            - link "마음을 움직이는 한 줄, 2019 상반기 광고카피 모음" [ref=e103] [cursor=pointer]:
+              - /url: https://www.i-boss.co.kr/ab-6141-40183?ref=ab-6141-58445&ibfs=JE6LV7B8
+          - paragraph [ref=e104]:
+            - link "·" [ref=e105] [cursor=pointer]:
+              - /url: https://www.i-boss.co.kr/ab-3208-413?ref=ab-6141-58445&ibfs=JE6LV7B8
+            - link "참고하기 좋은 광고카피 모음" [ref=e107] [cursor=pointer]:
+              - /url: https://www.i-boss.co.kr/ab-3208-413?ref=ab-6141-58445&ibfs=JE6LV7B8
+          - paragraph [ref=e108]:
+            - link "·" [ref=e109] [cursor=pointer]:
+              - /url: https://www.i-boss.co.kr/ab-3208-616?ref=ab-6141-58445&ibfs=JE6LV7B8
+            - link "알아두면 쓸모있는 시즌별 광고 카피 모음" [ref=e111] [cursor=pointer]:
+              - /url: https://www.i-boss.co.kr/ab-3208-616?ref=ab-6141-58445&ibfs=JE6LV7B8
+          - paragraph [ref=e112]:
+            - link "·" [ref=e113] [cursor=pointer]:
+              - /url: https://www.i-boss.co.kr/ab-3208-179?ref=ab-6141-58445&ibfs=JE6LV7B8
+            - link "어머 이건 사야해, 잘 팔리는 한 줄 광고 카피 모음" [ref=e115] [cursor=pointer]:
+              - /url: https://www.i-boss.co.kr/ab-3208-179?ref=ab-6141-58445&ibfs=JE6LV7B8
+          - paragraph [ref=e116]
+          - paragraph [ref=e117]: 이 글이 도움 되셨다면 좋아요 + 여러분의 SNS에 공유하여 더 많은 이들에게 보여주세요.
+          - paragraph [ref=e118]: (지금도 같은 문제로 고민하고 있을 많은 이들을 위해 이 글이 널리 퍼졌으면 합니다)
+        - generic [ref=e119]:
+          - link "마케팅초보" [ref=e120] [cursor=pointer]:
+            - /url: /ab-6140?tag=마케팅초보
+          - link "카피" [ref=e121] [cursor=pointer]:
+            - /url: /ab-6140?tag=카피
+          - link "카피라이팅" [ref=e122] [cursor=pointer]:
+            - /url: /ab-6140?tag=카피라이팅
+        - generic [ref=e123]:
+          - generic [ref=e124]:
+            - link " 좋아요 39" [ref=e127] [cursor=pointer]:
+              - /url: /ab-login
+              - generic [ref=e128]: 
+              - generic [ref=e129]: 좋아요
+              - emphasis [ref=e130]: "39"
+            - button "스크랩" [ref=e132] [cursor=pointer]:
+              - generic [ref=e134]: 스크랩
+              - emphasis
+          - generic [ref=e135]:
+            - button "공유" [ref=e136] [cursor=pointer]: 공유
+            - button "신고" [ref=e139] [cursor=pointer]: 신고
+      - generic [ref=e143]:
+        - generic [ref=e145]: 댓글 8
+        - generic [ref=e149]:
+          - generic [ref=e151]:
+            - img [ref=e153]
+            - generic [ref=e154]:
+              - paragraph [ref=e157]: 물어보살
+              - generic [ref=e159]:
+                - paragraph [ref=e160]: 좋은 글 잘읽었습니다
+                - generic [ref=e161]:
+                  - paragraph [ref=e162]:
+                    - generic [ref=e163]: "08.19"
+                  - link "2" [ref=e164] [cursor=pointer]:
+                    - /url: /ab-login
+                    - emphasis [ref=e165]
+                    - text: "2"
+                - paragraph
+          - generic [ref=e167]:
+            - img [ref=e169]
+            - generic [ref=e170]:
+              - generic [ref=e172]:
+                - paragraph [ref=e173]: 김매니저
+                - paragraph [ref=e174]: 작성자
+              - generic [ref=e175]:
+                - paragraph [ref=e176]:
+                  - generic [ref=e177]: "@물어보살"
+                  - text: 네 좋게 봐주셔서 감사합니다!
+                - generic [ref=e178]:
+                  - paragraph [ref=e179]:
+                    - generic [ref=e180]: "08.19"
+                  - link "좋아요" [ref=e181] [cursor=pointer]:
+                    - /url: /ab-login
+                    - emphasis [ref=e182]
+                    - text: 좋아요
+                - paragraph
+          - generic [ref=e184]:
+            - img [ref=e186]
+            - generic [ref=e187]:
+              - paragraph [ref=e190]: 찹쌀도너츠
+              - generic [ref=e192]:
+                - paragraph [ref=e193]: 감사합니다 :D
+                - generic [ref=e194]:
+                  - paragraph [ref=e195]:
+                    - generic [ref=e196]: "08.19"
+                  - link "2" [ref=e197] [cursor=pointer]:
+                    - /url: /ab-login
+                    - emphasis [ref=e198]
+                    - text: "2"
+                - paragraph
+          - generic [ref=e200]:
+            - img [ref=e202]
+            - generic [ref=e203]:
+              - generic [ref=e205]:
+                - paragraph [ref=e206]: 김매니저
+                - paragraph [ref=e207]: 작성자
+              - generic [ref=e208]:
+                - paragraph [ref=e209]:
+                  - generic [ref=e210]: "@찹쌀도너츠"
+                  - text: 도움이 되셨길 바랍니다!
+                - generic [ref=e211]:
+                  - paragraph [ref=e212]:
+                    - generic [ref=e213]: "08.19"
+                  - link "좋아요" [ref=e214] [cursor=pointer]:
+                    - /url: /ab-login
+                    - emphasis [ref=e215]
+                    - text: 좋아요
+                - paragraph
+          - generic [ref=e217]:
+            - img [ref=e219]
+            - generic [ref=e220]:
+              - paragraph [ref=e223]: 도우미
+              - generic [ref=e225]:
+                - paragraph [ref=e226]: 좋은글 감사합니다
+                - paragraph [ref=e227]:
+                  - img [ref=e228]
+                - generic [ref=e229]:
+                  - paragraph [ref=e230]:
+                    - generic [ref=e231]: "08.22"
+                  - link "2" [ref=e232] [cursor=pointer]:
+                    - /url: /ab-login
+                    - emphasis [ref=e233]
+                    - text: "2"
+                - paragraph
+          - generic [ref=e235]:
+            - img [ref=e237]
+            - generic [ref=e238]:
+              - paragraph [ref=e241]: 황족리버풀
+              - generic [ref=e243]:
+                - paragraph [ref=e244]: ㅇㄷㅇㄷ
+                - generic [ref=e245]:
+                  - paragraph [ref=e246]:
+                    - generic [ref=e247]: "10.13"
+                  - link "1" [ref=e248] [cursor=pointer]:
+                    - /url: /ab-login
+                    - emphasis [ref=e249]
+                    - text: "1"
+                - paragraph
+          - generic [ref=e251]:
+            - img [ref=e253]
+            - generic [ref=e254]:
+              - paragraph [ref=e257]: SNS몬스타
+              - generic [ref=e259]:
+                - paragraph [ref=e260]: 좋은글 감사합니다. 꿀팁이네요^^
+                - generic [ref=e261]:
+                  - paragraph [ref=e262]:
+                    - generic [ref=e263]: "10.16"
+                  - link "1" [ref=e264] [cursor=pointer]:
+                    - /url: /ab-login
+                    - emphasis [ref=e265]
+                    - text: "1"
+                - paragraph
+          - generic [ref=e267]:
+            - img [ref=e269]
+            - generic [ref=e270]:
+              - paragraph [ref=e273]: 리체
+              - generic [ref=e274]:
+                - paragraph [ref=e275]: 너무 감사합니다 :)
+                - generic [ref=e276]:
+                  - paragraph [ref=e277]:
+                    - generic [ref=e278]: "03.21"
+                  - link "좋아요" [ref=e279] [cursor=pointer]:
+                    - /url: /ab-login
+                    - emphasis [ref=e280]
+                    - text: 좋아요
+                - paragraph
+        - generic [ref=e283]:
+          - generic [ref=e285] [cursor=pointer]: 댓글 새로고침
+          - generic [ref=e288]:
+            - img [ref=e290]
+            - link "로그인" [ref=e294] [cursor=pointer]:
+              - /url: /ab-login
+              - textbox "로그인 후 이용하실 수 있습니다." [ref=e295]
+            - link "등록" [ref=e297] [cursor=pointer]:
+              - /url: /ab-login
+      - generic [ref=e298]:
+        - heading "읽어보면 좋은 게시글" [level=5] [ref=e299]
+        - generic [ref=e300]:
+          - link "팀장님이 써먹어보라 했던 밈, 그냥 쓰면 노잼이에요" [ref=e302] [cursor=pointer]:
+            - /url: /ab-qletter-981229
+            - img [ref=e303]
+            - paragraph [ref=e304]: 팀장님이 써먹어보라 했던 밈, 그냥 쓰면 노잼이에요
+          - link "빙수만 팔아도 망하지 않는 설빙의 비밀" [ref=e306] [cursor=pointer]:
+            - /url: /ab-qletter-879241
+            - img [ref=e307]
+            - paragraph [ref=e308]: 빙수만 팔아도 망하지 않는 설빙의 비밀
+          - link "메타 광고 솔루션 업데이트 내용 공유드려요" [ref=e310] [cursor=pointer]:
+            - /url: /ab-qletter-876903
+            - img [ref=e311]
+            - paragraph [ref=e312]: 메타 광고 솔루션 업데이트 내용 공유드려요
+          - link "메타 광고는 이제 AI한테 맡기면 돼요" [ref=e314] [cursor=pointer]:
+            - /url: /ab-qletter-873932
+            - img [ref=e315]
+            - paragraph [ref=e316]: 메타 광고는 이제 AI한테 맡기면 돼요
+          - link "맥도날드 하면 빅맥이 떠오르는 이유" [ref=e318] [cursor=pointer]:
+            - /url: /ab-qletter-897049
+            - img [ref=e319]
+            - paragraph [ref=e320]: 맥도날드 하면 빅맥이 떠오르는 이유
+          - link "두바이 초콜릿은 왜 죽지(녹지) 않고 또 왔을까?" [ref=e322] [cursor=pointer]:
+            - /url: /ab-qletter-937212
+            - img [ref=e323]
+            - paragraph [ref=e324]: 두바이 초콜릿은 왜 죽지(녹지) 않고 또 왔을까?
+          - link "귀여운 건 왜 이렇게 잘 팔릴까요?" [ref=e326] [cursor=pointer]:
+            - /url: /ab-qletter-948840
+            - img [ref=e327]
+            - paragraph [ref=e328]: 귀여운 건 왜 이렇게 잘 팔릴까요?
+          - link "네이버의 통합 검색 개편 어떻게 될까요?" [ref=e330] [cursor=pointer]:
+            - /url: /ab-qletter-941214
+            - img [ref=e331]
+            - paragraph [ref=e332]: 네이버의 통합 검색 개편 어떻게 될까요?
+          - link "나노바나나 위협하는 챗GPT 이미지 2.0 (덕테이프) 등장" [ref=e334] [cursor=pointer]:
+            - /url: /ab-qletter-981586
+            - img [ref=e335]
+            - paragraph [ref=e336]: 나노바나나 위협하는 챗GPT 이미지 2.0 (덕테이프) 등장
+          - link "신입이 준 보고서.. 아무래도 AI로 만든 것 같아요" [ref=e338] [cursor=pointer]:
+            - /url: /ab-qletter-943375
+            - img [ref=e339]
+            - paragraph [ref=e340]: 신입이 준 보고서.. 아무래도 AI로 만든 것 같아요
+          - link "재미없는 광고를 대체하는 웹예능 트렌드가 왔다" [ref=e342] [cursor=pointer]:
+            - /url: /ab-qletter-887691
+            - img [ref=e343]
+            - paragraph [ref=e344]: 재미없는 광고를 대체하는 웹예능 트렌드가 왔다
+          - link "교촌치킨이 쿠팡이츠에서 빠진다네요" [ref=e346] [cursor=pointer]:
+            - /url: /ab-qletter-881474
+            - img [ref=e347]
+            - paragraph [ref=e348]: 교촌치킨이 쿠팡이츠에서 빠진다네요
+          - link "카카오톡 바뀐 거 광고할 만할까요?" [ref=e350] [cursor=pointer]:
+            - /url: /ab-qletter-909236
+            - img [ref=e351]
+            - paragraph [ref=e352]: 카카오톡 바뀐 거 광고할 만할까요?
+          - link "네이버 카페가 계속 개편되는 이유" [ref=e354] [cursor=pointer]:
+            - /url: /ab-qletter-899436
+            - img [ref=e355]
+            - paragraph [ref=e356]: 네이버 카페가 계속 개편되는 이유
+          - link "한 번쯤 상상해봤던 일이 현실이 된다" [ref=e358] [cursor=pointer]:
+            - /url: /ab-qletter-903031
+            - img [ref=e359]
+            - paragraph [ref=e360]: 한 번쯤 상상해봤던 일이 현실이 된다
+          - link "귀칼에 빠진 마케터 계신가요?" [ref=e362] [cursor=pointer]:
+            - /url: /ab-qletter-904799
+            - img [ref=e363]
+            - paragraph [ref=e364]: 귀칼에 빠진 마케터 계신가요?
+  - textbox [ref=e365]

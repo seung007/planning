@@ -1,0 +1,661 @@
+- generic [active] [ref=e1]:
+  - banner [ref=e2]:
+    - generic [ref=e3]:
+      - link "[무료 웨비나] 아마존 진출에 시딩이 필수인 이유 더보기" [ref=e6] [cursor=pointer]:
+        - /url: https://www.i-boss.co.kr/ab-5817-462?ref=gnbbn
+        - text: "[무료 웨비나] 아마존 진출에 시딩이 필수인 이유"
+        - generic [ref=e7]: 더보기
+      - generic [ref=e8]:
+        - generic [ref=e9]:
+          - link "아이보스" [ref=e11] [cursor=pointer]:
+            - /url: /
+            - img "아이보스" [ref=e12]
+          - group "통합검색" [ref=e16]:
+            - textbox "검색" [ref=e17]
+            - button [ref=e18] [cursor=pointer]
+        - generic [ref=e21]:
+          - link "새로운 글" [ref=e22] [cursor=pointer]:
+            - /url: /ab-3023
+          - link "인기글" [ref=e23] [cursor=pointer]:
+            - /url: /ab-1886
+          - link "로그인" [ref=e25] [cursor=pointer]:
+            - /url: /ab-login
+          - link "회원가입" [ref=e26] [cursor=pointer]:
+            - /url: /ab-signup
+      - list [ref=e28]:
+        - listitem [ref=e29]:
+          - link "커뮤니티" [ref=e30] [cursor=pointer]:
+            - /url: /ab-2936
+            - generic [ref=e31]: 커뮤니티
+        - listitem [ref=e32]:
+          - link "정보공유" [ref=e33] [cursor=pointer]:
+            - /url: /ab-6166
+            - generic [ref=e34]: 정보공유
+        - listitem [ref=e35]:
+          - link "뉴스" [ref=e36] [cursor=pointer]:
+            - /url: /ab-7214
+            - generic [ref=e37]: 뉴스
+        - listitem [ref=e38]:
+          - link "질문답변" [ref=e39] [cursor=pointer]:
+            - /url: /ab-2109
+            - generic [ref=e40]: 질문답변
+        - listitem [ref=e41]
+        - listitem [ref=e42]:
+          - link "대행컨설팅" [ref=e43] [cursor=pointer]:
+            - /url: /ab-1486336
+            - generic [ref=e44]: 대행컨설팅
+        - listitem [ref=e45]:
+          - link "디렉토리" [ref=e46] [cursor=pointer]:
+            - /url: /ab-7553
+            - generic [ref=e47]: 디렉토리
+        - listitem [ref=e48]:
+          - link "광고상품" [ref=e49] [cursor=pointer]:
+            - /url: /ab-7654
+            - generic [ref=e50]: 광고상품
+        - listitem [ref=e51]:
+          - link "채용" [ref=e52] [cursor=pointer]:
+            - /url: /ab-2794
+            - generic [ref=e53]: 채용
+        - listitem [ref=e54]:
+          - link "콘텐츠" [ref=e55] [cursor=pointer]:
+            - /url: /ab-2984
+            - generic [ref=e56]: 콘텐츠
+        - listitem [ref=e57]:
+          - link "칼럼" [ref=e58] [cursor=pointer]:
+            - /url: /ab-74667
+            - generic [ref=e59]: 칼럼
+        - listitem [ref=e60]:
+          - link "모임" [ref=e61] [cursor=pointer]:
+            - /url: /ab-5151
+            - generic [ref=e62]: 모임
+        - listitem [ref=e63]:
+          - link "밋업" [ref=e64] [cursor=pointer]:
+            - /url: /ab-5816
+            - generic [ref=e65]: 밋업
+        - listitem [ref=e66]
+        - listitem [ref=e67]:
+          - link "교육" [ref=e68] [cursor=pointer]:
+            - /url: https://www.ibossedu.co.kr
+            - generic [ref=e69]: 교육
+          - text: · · · · · · · ·
+        - listitem [ref=e70]:
+          - link "공짜로 받아보는 마케...(더보기)" [ref=e71] [cursor=pointer]:
+            - /url: https://www.qletter.co.kr/subscribe?ref=gnbad
+            - generic [ref=e72]: 공짜로 받아보는 마케...(더보기)
+  - generic [ref=e74]:
+    - generic [ref=e76]:
+      - generic [ref=e78]:
+        - generic [ref=e80]:
+          - link "브랜드 옆자리에 앉아 함께 성장하는 마케팅 구독 서비스" [ref=e81] [cursor=pointer]:
+            - /url: /ab-2877-16238
+            - generic [ref=e83]: 브랜드 옆자리에 앉아 함께 성장하는 마케팅 구독 서비스
+          - link "광고" [ref=e85] [cursor=pointer]:
+            - /url: /ab-184140-695
+        - generic [ref=e86]:
+          - list [ref=e89]:
+            - listitem [ref=e90]:
+              - link "콘텐츠마케팅" [ref=e91] [cursor=pointer]:
+                - /url: /ab-6140?tag=콘텐츠마케팅
+          - generic [ref=e92]:
+            - generic [ref=e93]:
+              - heading "클릭을 부르는 카피 작성을 위한 습관 3가지" [level=1] [ref=e95]
+              - generic [ref=e96]:
+                - img [ref=e97]
+                - generic [ref=e98]:
+                  - paragraph [ref=e100]: 김준하
+                  - generic [ref=e101]:
+                    - paragraph [ref=e102]: 2021-06-29
+                    - paragraph [ref=e103]: 조회수 8,143
+                    - paragraph [ref=e104]: 좋아요 38
+                    - paragraph [ref=e105] [cursor=pointer]: 댓글 14
+            - generic [ref=e106]:
+              - paragraph [ref=e107]:
+                - img [ref=e108] [cursor=pointer]
+              - paragraph [ref=e109]
+              - paragraph [ref=e110]: 카피 쓰기가 어려워요.
+              - paragraph [ref=e111]: 후킹 메세지가 너무 고민돼요.
+              - paragraph [ref=e112]: 어디서부터 시작해야 할지 막막해요.
+              - paragraph [ref=e113]: 저도 2~3년 전에는 이런 고민을 수도 없이 했습니다.
+              - paragraph [ref=e114]: 물론 지금도 합니다.
+              - paragraph [ref=e115]: 그런데 전보다는 빈도수가 적습니다. 마냥 어렵지는 않거든요.
+              - paragraph [ref=e116]: 그럼 무엇을 해서 고민의 크기가 작아졌을까요?
+              - paragraph [ref=e117]: 먼저 뉴스를 찾아보고 요약했습니다.
+              - paragraph [ref=e118]: 사람들이 무슨 뉴스를 많이 보는지, 어떤 이슈가 있는지를 매번 보면 조회수 높은 뉴스의 헤드라인이 보이고, 썸내일이 보입니다. 그러고 나서 내가 작성할 카피에 적용하는 연습을 지속적으로 하며, 성과를 보며 개선했습니다.
+              - paragraph [ref=e119]: 두 번째로 마케팅 퀴즈 컨텐츠를 만들었습니다.
+              - paragraph [ref=e120]: 오답을 만드는 것은 정말 재밌고 신납니다. 하지만 정답에 대한 해설을 작성하는 것은 쉽지 않았습니다. 제대로 알아야 하고 쉽고 간단하게 전달해야 했습니다. 이렇게 지속적으로 반복하다 보니 오답을 유도하기 위한 후킹 실력이 늘어났고, 제대로 아는 것이 많아져서 좁았던 시선이 넓어졌습니다.
+              - paragraph [ref=e121]: 세 번째로 카피 관련 책과 강의 등을 참고했습니다.
+              - paragraph [ref=e122]: 일단 따라 해봤습니다. 그리고 반복하고 나에게 맞는 스타일을 찾으며 잘 활용할 수 있는 나만의 방식을 만들었습니다. 짧게 보면 따라만 하면 됩니다. 하지만 길게 본다면 내 것이 있어야 합니다. 나만의 스타일을 찾고 지속적으로 개선해야 합니다.
+              - paragraph [ref=e123]: 무엇보다 가장 중요한 것은 잘 하고자 하는 의지입니다.
+              - paragraph [ref=e124]: 그리고 꾸준하게 시도하는 것입니다.
+              - paragraph [ref=e125]:
+                - text: 조회수가 높은 글은 왜 높을까? 생각하고
+                - text: 끌리는 헤드라인 카피를 저장해두고 필요할 때 쓰는 습관도 좋습니다.
+              - paragraph [ref=e126]: 저절로 되는 것은 없습니다. 시작이 반입니다.
+              - paragraph [ref=e127]: 제가 말한 것보다 더 좋은 방법도 세상에는 무척 많을 겁니다.
+              - paragraph [ref=e128]: 하지만 그 수많은 방법 중 지금 하나라도 시작하지 않으면,
+              - paragraph [ref=e129]: 내일도 똑같은 고민을 할 것입니다.
+              - paragraph [ref=e130]: 도전하세요.
+              - paragraph [ref=e131]: 1년 뒤 분명 카피 쓰기 능력이 향상되어 있을 겁니다.
+              - link "실시간으로 나누는 콘텐츠 마케팅 정보 💬" [ref=e134] [cursor=pointer]:
+                - /url: ./move_url.php?bd=BD7506&idx=621
+                - generic [ref=e136]: 실시간으로 나누는 콘텐츠 마케팅 정보 💬
+            - generic [ref=e137]:
+              - link "콘텐츠마케팅" [ref=e138] [cursor=pointer]:
+                - /url: /ab-6140?tag=콘텐츠마케팅
+              - link "카피" [ref=e139] [cursor=pointer]:
+                - /url: /ab-6140?tag=카피
+            - generic [ref=e141]:
+              - link "아 맞다! 좋아요" [ref=e144] [cursor=pointer]:
+                - /url: /ab-login
+                - generic [ref=e145]: 아 맞다! 좋아요
+              - generic [ref=e147]:
+                - link " 좋아요 38" [ref=e150] [cursor=pointer]:
+                  - /url: /ab-login
+                  - generic [ref=e151]: 
+                  - generic [ref=e152]: 좋아요
+                  - emphasis [ref=e153]: "38"
+                - button "스크랩" [ref=e155] [cursor=pointer]:
+                  - generic [ref=e157]: 스크랩
+                  - emphasis
+              - generic [ref=e158]:
+                - button "공유" [ref=e159] [cursor=pointer]: 공유
+                - button "신고" [ref=e162] [cursor=pointer]: 신고
+          - generic [ref=e165]:
+            - link "회사생활 게시판" [ref=e167] [cursor=pointer]:
+              - /url: /ab-8083?ref=ctad
+              - img "회사생활 게시판" [ref=e168]
+            - generic [ref=e169]:
+              - generic [ref=e170]:
+                - img [ref=e171]
+                - generic [ref=e172]: 김준하
+                - generic [ref=e173]: 님의 최신 게시글
+              - generic [ref=e174]:
+                - link "KOTRA, 2025 해외진출 전략 (일본,중국,북미,유럽 등) 4 12.02" [ref=e176] [cursor=pointer]:
+                  - /url: /ab-6141-65759
+                  - generic [ref=e177]:
+                    - generic [ref=e178]: KOTRA, 2025 해외진출 전략 (일본,중국,북미,유럽 등)
+                    - generic [ref=e179]: "4"
+                  - generic [ref=e180]: "12.02"
+                - link "TikTok 2025 Q5 Commerce Playbook 11.08" [ref=e182] [cursor=pointer]:
+                  - /url: /ab-6141-65386
+                  - generic [ref=e184]: TikTok 2025 Q5 Commerce Playbook
+                  - generic [ref=e185]: "11.08"
+                - 'link "에드워드 리 쉐프 : 필요한 것은 도마와 칼, 그리고 호기심뿐 10.11" [ref=e187] [cursor=pointer]':
+                  - /url: /ab-1486505-48607
+                  - generic [ref=e189]: "에드워드 리 쉐프 : 필요한 것은 도마와 칼, 그리고 호기심뿐"
+                  - generic [ref=e190]: "10.11"
+                - link "[버거킹] 사람이 바로 미디어, 와퍼 타투 캠페인 성공 전략 09.20" [ref=e192] [cursor=pointer]:
+                  - /url: /ab-6141-64970
+                  - generic [ref=e194]: "[버거킹] 사람이 바로 미디어, 와퍼 타투 캠페인 성공 전략"
+                  - generic [ref=e195]: "09.20"
+                - link "아이폰 16, 한 눈에 보기 09.10" [ref=e197] [cursor=pointer]:
+                  - /url: /ab-1486505-48414
+                  - generic [ref=e199]: 아이폰 16, 한 눈에 보기
+                  - generic [ref=e200]: "09.10"
+                - link "내 취향으로 사로잡아라, 나영석 PD 유튜브 전략 08.23" [ref=e202] [cursor=pointer]:
+                  - /url: /ab-6141-64788
+                  - generic [ref=e204]: 내 취향으로 사로잡아라, 나영석 PD 유튜브 전략
+                  - generic [ref=e205]: "08.23"
+        - generic [ref=e206]:
+          - link "목록" [ref=e207] [cursor=pointer]:
+            - /url: /ab-6140?tag=마케팅 정보
+          - generic [ref=e208]:
+            - link "글쓰기" [ref=e209] [cursor=pointer]:
+              - /url: /ab-6142?topic=콘텐츠마케팅
+            - link "글쓰기" [ref=e210] [cursor=pointer]:
+              - /url: /ab-login
+      - generic [ref=e213]:
+        - generic [ref=e215]: 댓글 14
+        - generic [ref=e219]:
+          - generic [ref=e221]:
+            - img [ref=e223]
+            - generic [ref=e224]:
+              - paragraph [ref=e227]: 모임매니저
+              - generic [ref=e228]:
+                - paragraph [ref=e229]: 최고!!!!!!!!!!
+                - generic [ref=e230]:
+                  - paragraph [ref=e231]:
+                    - generic [ref=e232]: "06.30"
+                  - link "3" [ref=e233] [cursor=pointer]:
+                    - /url: /ab-login
+                    - emphasis [ref=e234]
+                    - text: "3"
+                - paragraph
+          - generic [ref=e236]:
+            - img [ref=e238]
+            - generic [ref=e239]:
+              - paragraph [ref=e242]: mkterA
+              - generic [ref=e244]:
+                - paragraph [ref=e245]: 역시 끌리는 카피를 저장해두는 습관이 정말 중요한거 같아요, 마케팅 퀴즈 컨텐츠도 기획을 하는 것이 정말 어려울 때가 많은데 그동안 쌓아왔던 저장고에서 실마리가 풀릴 때가 많아요!
+                - generic [ref=e246]:
+                  - paragraph [ref=e247]:
+                    - generic [ref=e248]: "06.30"
+                  - link "2" [ref=e249] [cursor=pointer]:
+                    - /url: /ab-login
+                    - emphasis [ref=e250]
+                    - text: "2"
+                - paragraph
+          - generic [ref=e252]:
+            - img [ref=e254]
+            - generic [ref=e255]:
+              - paragraph [ref=e258]: 마케팅탑마스터
+              - generic [ref=e260]:
+                - paragraph [ref=e261]:
+                  - generic [ref=e262]: "@mkterA"
+                  - text: 읽었던 글이지만 복습 차 다시 한 번 들어와봤어요. 카피 잘 쓰는 습관 마케터에게 정말 중요한 것 같다고 느낍니다 :)
+                - generic [ref=e263]:
+                  - paragraph [ref=e264]:
+                    - generic [ref=e265]: "07.02"
+                  - link "1" [ref=e266] [cursor=pointer]:
+                    - /url: /ab-login
+                    - emphasis [ref=e267]
+                    - text: "1"
+                - paragraph
+          - generic [ref=e269]:
+            - img [ref=e271]
+            - generic [ref=e272]:
+              - paragraph [ref=e275]: 마케팅탑마스터
+              - generic [ref=e277]:
+                - paragraph [ref=e278]: 글 잘봤습니다 :)
+                - generic [ref=e279]:
+                  - paragraph [ref=e280]:
+                    - generic [ref=e281]: "06.30"
+                  - link "1" [ref=e282] [cursor=pointer]:
+                    - /url: /ab-login
+                    - emphasis [ref=e283]
+                    - text: "1"
+                - paragraph
+          - generic [ref=e285]:
+            - img [ref=e287]
+            - generic [ref=e288]:
+              - paragraph [ref=e291]: kimmint
+              - generic [ref=e293]:
+                - paragraph [ref=e294]:
+                  - text: 시작이 반이라는 말에 정말 공감해요
+                  - text: 도전하지 않으면 성공이든 실패든 결과 자체가 없으니까 도전 부터 :)
+                - generic [ref=e295]:
+                  - paragraph [ref=e296]:
+                    - generic [ref=e297]: "07.02"
+                  - link "좋아요" [ref=e298] [cursor=pointer]:
+                    - /url: /ab-login
+                    - emphasis [ref=e299]
+                    - text: 좋아요
+                - paragraph
+          - generic [ref=e301]:
+            - img [ref=e303]
+            - generic [ref=e304]:
+              - paragraph [ref=e307]: 도우미
+              - generic [ref=e309]:
+                - paragraph [ref=e310]: 잘 보고갑니다
+                - paragraph [ref=e311]:
+                  - img [ref=e312]
+                - generic [ref=e313]:
+                  - paragraph [ref=e314]:
+                    - generic [ref=e315]: "07.04"
+                  - link "좋아요" [ref=e316] [cursor=pointer]:
+                    - /url: /ab-login
+                    - emphasis [ref=e317]
+                    - text: 좋아요
+                - paragraph
+          - generic [ref=e319]:
+            - img [ref=e321]
+            - generic [ref=e322]:
+              - paragraph [ref=e325]: 하늬바람9999
+              - generic [ref=e327]:
+                - paragraph [ref=e328]: 좋은글 감사합니다
+                - paragraph [ref=e329]:
+                  - img [ref=e330]
+                - generic [ref=e331]:
+                  - paragraph [ref=e332]:
+                    - generic [ref=e333]: "07.07"
+                  - link "좋아요" [ref=e334] [cursor=pointer]:
+                    - /url: /ab-login
+                    - emphasis [ref=e335]
+                    - text: 좋아요
+                - paragraph
+          - generic [ref=e337]:
+            - img [ref=e339]
+            - generic [ref=e340]:
+              - paragraph [ref=e343]: 우라라5
+              - generic [ref=e345]:
+                - paragraph [ref=e346]: 좋은 글 감사해요!
+                - generic [ref=e347]:
+                  - paragraph [ref=e348]:
+                    - generic [ref=e349]: "07.08"
+                  - link "좋아요" [ref=e350] [cursor=pointer]:
+                    - /url: /ab-login
+                    - emphasis [ref=e351]
+                    - text: 좋아요
+                - paragraph
+          - generic [ref=e353]:
+            - img [ref=e355]
+            - generic [ref=e356]:
+              - paragraph [ref=e359]: hyoj90
+              - generic [ref=e361]:
+                - paragraph [ref=e362]: 저도 요즘 카피때문에 고민이 많았는데 참고해서 저만의 카피작성법을 찾아볼게요!!!
+                - generic [ref=e363]:
+                  - paragraph [ref=e364]:
+                    - generic [ref=e365]: "07.09"
+                  - link "좋아요" [ref=e366] [cursor=pointer]:
+                    - /url: /ab-login
+                    - emphasis [ref=e367]
+                    - text: 좋아요
+                - paragraph
+          - generic [ref=e369]:
+            - img [ref=e371]
+            - generic [ref=e372]:
+              - paragraph [ref=e375]: 오트밀
+              - generic [ref=e377]:
+                - paragraph [ref=e378]: 좋은 글 감사합니다^^
+                - generic [ref=e379]:
+                  - paragraph [ref=e380]:
+                    - generic [ref=e381]: "07.09"
+                  - link "좋아요" [ref=e382] [cursor=pointer]:
+                    - /url: /ab-login
+                    - emphasis [ref=e383]
+                    - text: 좋아요
+                - paragraph
+          - generic [ref=e385]:
+            - img [ref=e387]
+            - generic [ref=e388]:
+              - paragraph [ref=e391]: 네밍
+              - generic [ref=e393]:
+                - paragraph [ref=e394]: 정보 감사합니다~!
+                - generic [ref=e395]:
+                  - paragraph [ref=e396]:
+                    - generic [ref=e397]: "07.12"
+                  - link "좋아요" [ref=e398] [cursor=pointer]:
+                    - /url: /ab-login
+                    - emphasis [ref=e399]
+                    - text: 좋아요
+                - paragraph
+          - generic [ref=e401]:
+            - img [ref=e403]
+            - generic [ref=e404]:
+              - paragraph [ref=e407]: 해왕성별딱지
+              - generic [ref=e409]:
+                - paragraph [ref=e410]: 좋은 글 감사합니다ㅎㅎ 열심히 쓰고 적고 기억하고!
+                - generic [ref=e411]:
+                  - paragraph [ref=e412]:
+                    - generic [ref=e413]: "09.29"
+                  - link "좋아요" [ref=e414] [cursor=pointer]:
+                    - /url: /ab-login
+                    - emphasis [ref=e415]
+                    - text: 좋아요
+                - paragraph
+          - generic [ref=e417]:
+            - img [ref=e419]
+            - generic [ref=e420]:
+              - paragraph [ref=e423]: 영이일오
+              - generic [ref=e424]:
+                - paragraph [ref=e425]: 감사합니다
+                - generic [ref=e426]:
+                  - paragraph [ref=e427]:
+                    - generic [ref=e428]: "10.19"
+                  - link "좋아요" [ref=e429] [cursor=pointer]:
+                    - /url: /ab-login
+                    - emphasis [ref=e430]
+                    - text: 좋아요
+                - paragraph
+          - generic [ref=e432]:
+            - img [ref=e434]
+            - generic [ref=e435]:
+              - paragraph [ref=e438]: ideadk
+              - generic [ref=e440]:
+                - paragraph [ref=e441]: 좋은 글 감사합니다
+                - generic [ref=e442]:
+                  - paragraph [ref=e443]:
+                    - generic [ref=e444]: "10.22"
+                  - link "좋아요" [ref=e445] [cursor=pointer]:
+                    - /url: /ab-login
+                    - emphasis [ref=e446]
+                    - text: 좋아요
+                - paragraph
+        - generic [ref=e449]:
+          - generic [ref=e451] [cursor=pointer]: 댓글 새로고침
+          - generic [ref=e454]:
+            - img [ref=e456]
+            - link "로그인" [ref=e460] [cursor=pointer]:
+              - /url: /ab-login
+              - textbox "로그인 후 이용하실 수 있습니다." [ref=e461]
+            - link "등록" [ref=e463] [cursor=pointer]:
+              - /url: /ab-login
+    - generic [ref=e466]:
+      - generic [ref=e471]:
+        - generic [ref=e472]: 로그인 후 더욱 많은 기능을 이용하세요!
+        - link "아이보스 로그인" [ref=e473] [cursor=pointer]:
+          - /url: /ab-login
+        - generic [ref=e474]:
+          - link "회원가입" [ref=e475] [cursor=pointer]:
+            - /url: /ab-signup
+          - link "계정찾기" [ref=e476] [cursor=pointer]:
+            - /url: /ab-find_id_pw
+      - link "메타뮤즈" [ref=e478] [cursor=pointer]:
+        - /url: https://www.ibossedu.co.kr/edu-goods-470?ref=suba
+        - img "메타뮤즈" [ref=e479]
+      - generic [ref=e480]:
+        - generic [ref=e481]:
+          - generic [ref=e482]:
+            - generic [ref=e483]: 지금 인기
+            - generic [ref=e484]: 주간 인기
+            - generic [ref=e485]: 월간 인기
+          - generic [ref=e487]:
+            - link "1 블로그 검색노출 보고할 때 시간대별 캡처 증빙까지 요구받는 경우 있나요? 9" [ref=e489] [cursor=pointer]:
+              - /url: /ab-1486505-53897
+              - emphasis [ref=e490]: "1"
+              - generic [ref=e491]: 블로그 검색노출 보고할 때 시간대별 캡처 증빙까지 요구받는 경우 있나요?
+              - generic [ref=e492]: "9"
+            - link "2 스마트 스토어 세팅준비 7" [ref=e494] [cursor=pointer]:
+              - /url: /ab-1486505-53910
+              - emphasis [ref=e495]: "2"
+              - generic [ref=e496]: 스마트 스토어 세팅준비
+              - generic [ref=e497]: "7"
+            - link "3 이 사달이 났지만 블로그 업로드하고 계신 분 계신가요?ㅠ 6" [ref=e499] [cursor=pointer]:
+              - /url: /ab-6141-70447
+              - emphasis [ref=e500]: "3"
+              - generic [ref=e501]: 이 사달이 났지만 블로그 업로드하고 계신 분 계신가요?ㅠ
+              - generic [ref=e502]: "6"
+            - link "4 4년만에 아이보스로 복귀! 4" [ref=e504] [cursor=pointer]:
+              - /url: /ab-1486505-53900
+              - emphasis [ref=e505]: "4"
+              - generic [ref=e506]: 4년만에 아이보스로 복귀!
+              - generic [ref=e507]: "4"
+            - link "5 우린 B2B 기업인데 어쩌다보니 숏폼을 찍게 됐어요" [ref=e509] [cursor=pointer]:
+              - /url: /ab-6141-70423
+              - emphasis [ref=e510]: "5"
+              - generic [ref=e511]: 우린 B2B 기업인데 어쩌다보니 숏폼을 찍게 됐어요
+            - link "AD 🍀 롯데 법인카드를 쓰는 광고주가 '13월의 월급'처럼 받는 이것!" [ref=e513] [cursor=pointer]:
+              - /url: /ab-7729-1025
+              - emphasis [ref=e514]: AD
+              - generic [ref=e515]: 🍀 롯데 법인카드를 쓰는 광고주가 '13월의 월급'처럼 받는 이것!
+            - link "6 이번에 블로그 글 검색하면서 알아냈던 사실 1" [ref=e517] [cursor=pointer]:
+              - /url: /ab-1486505-53914
+              - emphasis [ref=e518]: "6"
+              - generic [ref=e519]: 이번에 블로그 글 검색하면서 알아냈던 사실
+              - generic [ref=e520]: "1"
+            - link "7 우리 회사는 AI 검색에 노출되고 있을까? GEO/AEO 체크포인트" [ref=e522] [cursor=pointer]:
+              - /url: /ab-6141-70455
+              - emphasis [ref=e523]: "7"
+              - generic [ref=e524]: 우리 회사는 AI 검색에 노출되고 있을까? GEO/AEO 체크포인트
+            - link "8 20년차 마케터가 본 네이버 사태 2 1" [ref=e526] [cursor=pointer]:
+              - /url: /ab-6141-70469
+              - emphasis [ref=e527]: "8"
+              - generic [ref=e528]: 20년차 마케터가 본 네이버 사태 2
+              - generic [ref=e529]: "1"
+            - link "9 쇼핑검색광고 5" [ref=e531] [cursor=pointer]:
+              - /url: /ab-1486505-53925
+              - emphasis [ref=e532]: "9"
+              - generic [ref=e533]: 쇼핑검색광고
+              - generic [ref=e534]: "5"
+            - link "10 금요일 작업 반영 안되신분 계실까요? 4" [ref=e536] [cursor=pointer]:
+              - /url: /ab-6141-70450
+              - emphasis [ref=e537]: "10"
+              - generic [ref=e538]: 금요일 작업 반영 안되신분 계실까요?
+              - generic [ref=e539]: "4"
+        - generic [ref=e540]:
+          - generic [ref=e541]:
+            - strong [ref=e542]: 아이보스 칼럼
+            - link "전체보기" [ref=e543] [cursor=pointer]:
+              - /url: /ab-74667
+              - text: 전체보기
+          - generic [ref=e546]:
+            - link "재방문을 만드는 방법? 게이미피케이션 재방문을 만드는 방법? 게이미피케이션 AICX플래티어" [ref=e547] [cursor=pointer]:
+              - /url: /ab-74668-5702
+              - img "재방문을 만드는 방법? 게이미피케이션" [ref=e549]
+              - generic [ref=e550]:
+                - paragraph [ref=e551]: 재방문을 만드는 방법? 게이미피케이션
+                - paragraph [ref=e552]: AICX플래티어
+            - link "시그널플래너 캠페인 — '범' 하나로 보험 클리셰를 깨버린 법 시그널플래너 캠페인 — '범' 하나로 보험 클리셰를 깨버린 법 소마코" [ref=e553] [cursor=pointer]:
+              - /url: /ab-74668-5689
+              - img "시그널플래너 캠페인 — '범' 하나로 보험 클리셰를 깨버린 법" [ref=e555]
+              - generic [ref=e556]:
+                - paragraph [ref=e557]: 시그널플래너 캠페인 — '범' 하나로 보험 클리셰를 깨버린 법
+                - paragraph [ref=e558]: 소마코
+            - link "AI 시대, 고객의 언어로 콘텐츠를 설계해야 하는 이유 AI 시대, 고객의 언어로 콘텐츠를 설계해야 하는 이유 비즈스프링" [ref=e559] [cursor=pointer]:
+              - /url: /ab-74668-5703
+              - img "AI 시대, 고객의 언어로 콘텐츠를 설계해야 하는 이유" [ref=e561]
+              - generic [ref=e562]:
+                - paragraph [ref=e563]: AI 시대, 고객의 언어로 콘텐츠를 설계해야 하는 이유
+                - paragraph [ref=e564]: 비즈스프링
+            - link "우리 브랜드 인플루언서 콘텐츠만 밤티였던 이유 우리 브랜드 인플루언서 콘텐츠만 밤티였던 이유 인켓팅" [ref=e565] [cursor=pointer]:
+              - /url: /ab-74668-5709
+              - img "우리 브랜드 인플루언서 콘텐츠만 밤티였던 이유" [ref=e567]
+              - generic [ref=e568]:
+                - paragraph [ref=e569]: 우리 브랜드 인플루언서 콘텐츠만 밤티였던 이유
+                - paragraph [ref=e570]: 인켓팅
+            - link "최근 틱톡 바이럴이 잘 안 터지는 진짜 원인 최근 틱톡 바이럴이 잘 안 터지는 진짜 원인 Gopicky" [ref=e571] [cursor=pointer]:
+              - /url: /ab-74668-5713
+              - img "최근 틱톡 바이럴이 잘 안 터지는 진짜 원인" [ref=e573]
+              - generic [ref=e574]:
+                - paragraph [ref=e575]: 최근 틱톡 바이럴이 잘 안 터지는 진짜 원인
+                - paragraph [ref=e576]: Gopicky
+            - link "AI 주식 투자 서비스가 고객과 신뢰를 쌓는 방법 AI 주식 투자 서비스가 고객과 신뢰를 쌓는 방법 플랜브로" [ref=e577] [cursor=pointer]:
+              - /url: /ab-74668-5712
+              - img "AI 주식 투자 서비스가 고객과 신뢰를 쌓는 방법" [ref=e579]
+              - generic [ref=e580]:
+                - paragraph [ref=e581]: AI 주식 투자 서비스가 고객과 신뢰를 쌓는 방법
+                - paragraph [ref=e582]: 플랜브로
+          - generic [ref=e583]:
+            - generic [ref=e585]: "1"
+            - generic [ref=e586]: /
+            - generic [ref=e587]: "3"
+        - generic [ref=e589]:
+          - link "큐레터" [ref=e590] [cursor=pointer]:
+            - /url: https://www.qletter.co.kr/subscribe/?ref=sub_b1
+            - img "큐레터" [ref=e591]
+          - link "메타뮤즈" [ref=e592] [cursor=pointer]:
+            - /url: https://www.ibossedu.co.kr/edu-goods-470?ref=subBN
+            - img "메타뮤즈" [ref=e593]
+          - link "파트너스" [ref=e594] [cursor=pointer]:
+            - /url: /ab-partners_list?ref=sub_b1
+            - img "파트너스" [ref=e595]
+          - link "광고비 전용카드" [ref=e596] [cursor=pointer]:
+            - /url: /ab-7610?ref=sub_b1
+            - img "광고비 전용카드" [ref=e597]
+        - generic [ref=e598]:
+          - generic [ref=e599]:
+            - heading "새글" [level=5] [ref=e600]
+            - link "전체보기" [ref=e601] [cursor=pointer]:
+              - /url: /ab-3023
+          - generic [ref=e602]:
+            - link "새글 광고 모델 100명을 이기는 '캐릭터' 하나, 비결은 따로 있습니다" [ref=e604] [cursor=pointer]:
+              - /url: /ab-6141-70496
+              - emphasis [ref=e605]: 새글
+              - text: 광고 모델 100명을 이기는 '캐릭터' 하나, 비결은 따로 있습니다
+            - link "새글 검색광고에서 '큰 키워드'가 성과를 망치는이유" [ref=e607] [cursor=pointer]:
+              - /url: /ab-6141-70495
+              - emphasis [ref=e608]: 새글
+              - text: 검색광고에서 '큰 키워드'가 성과를 망치는이유
+            - link "새글 익일 (21일) 네이버 업데이트" [ref=e610] [cursor=pointer]:
+              - /url: /ab-6141-70494
+              - emphasis [ref=e611]: 새글
+              - text: 익일 (21일) 네이버 업데이트
+            - link "새글 틱톡, 6·3 지방선거 허위정보 차단 체계 발표" [ref=e613] [cursor=pointer]:
+              - /url: /ab-2877-17306
+              - emphasis [ref=e614]: 새글
+              - text: 틱톡, 6·3 지방선거 허위정보 차단 체계 발표
+            - link "새글 네이버, 데이터로 기획한 단독 식품으로 플랫폼 락인 강화" [ref=e616] [cursor=pointer]:
+              - /url: /ab-2877-17305
+              - emphasis [ref=e617]: 새글
+              - text: 네이버, 데이터로 기획한 단독 식품으로 플랫폼 락인 강화
+        - generic [ref=e618]:
+          - generic [ref=e619]:
+            - heading "새댓글" [level=5] [ref=e620]
+            - link "전체보기" [ref=e621] [cursor=pointer]:
+              - /url: /ab-new_cmt
+          - generic [ref=e622]:
+            - link "새글 혹시 내일 패치라는 내용 어디서 확인 가능한지 여쭤봐도 될까요?!?!!!" [ref=e624] [cursor=pointer]:
+              - /url: /ab-6141-70494#CmtList_2164954
+              - emphasis [ref=e625]: 새글
+              - text: 혹시 내일 패치라는 내용 어디서 확인 가능한지 여쭤봐도 될까요?!?!!!
+            - link "새글 그냥 보통 목요일패치라 그런거말고요? 21일에 2개인가 패치잇긴해요" [ref=e627] [cursor=pointer]:
+              - /url: /ab-6141-70494#CmtList_2164953
+              - emphasis [ref=e628]: 새글
+              - text: 그냥 보통 목요일패치라 그런거말고요? 21일에 2개인가 패치잇긴해요
+            - link "새글 현재 엔비티와 버즈빌에 직접 매체 연동해서 리워드 송출하고 있습니다!" [ref=e630] [cursor=pointer]:
+              - /url: /ab-2110-32598#CmtList_2164952
+              - emphasis [ref=e631]: 새글
+              - text: 현재 엔비티와 버즈빌에 직접 매체 연동해서 리워드 송출하고 있습니다!
+            - link "새글 글만 읽어도 실무자들이 얼마나 고생하시는지 눈에 보입니다.. 전형적으로···" [ref=e633] [cursor=pointer]:
+              - /url: /ab-8084-93#CmtList_2164943
+              - emphasis [ref=e634]: 새글
+              - text: 글만 읽어도 실무자들이 얼마나 고생하시는지 눈에 보입니다.. 전형적으로···
+            - link "새글 개인적인 경험을 바탕으로 답변드립니다. 보통 자신의 브랜드와 동종업···" [ref=e636] [cursor=pointer]:
+              - /url: /ab-2110-32605#CmtList_2164941
+              - emphasis [ref=e637]: 새글
+              - text: 개인적인 경험을 바탕으로 답변드립니다. 보통 자신의 브랜드와 동종업···
+      - generic [ref=e638]:
+        - link "비디오스튜" [ref=e639] [cursor=pointer]:
+          - /url: https://videostew.com/code/YGCGL19Y5G
+          - img "비디오스튜" [ref=e640]
+        - link "케어랩스" [ref=e641] [cursor=pointer]:
+          - /url: /ab-6911?ref=sub_b2
+          - img "케어랩스" [ref=e642]
+        - link "콘크리트파머스" [ref=e643] [cursor=pointer]:
+          - /url: /ab-7916?ref=sub_b2
+          - img "콘크리트파머스" [ref=e644]
+        - insertion [ref=e645]:
+          - iframe [ref=e647]:
+            - iframe [ref=f33e1]:
+              - generic [active]:
+                - link [ref=f39e1] [cursor=pointer]:
+                  - /url: https://krrtb.c.appier.net/xclk?bidobjid=JLNP0SG_AlG9o7ZmHa0Nag&cid=IWUPzeqSSKSDn4zIFri0WQ&crid=tZ2LStHwRA-FTlh7tnhFJg&crpid=w4oJa_e6RfKZ106plmEBQw&soid=kzNb&partner_id=03mSf3HNecb-&bx=Cylxwnu_orfyKqIm2rdPo0ZmorZV20ZmK4lqU1u_uYfWwYOPZyzqUyzFZ1u-uYS9uqa1cns1UD7PKY7BKYWyu1x1c8sRuqaVK4lNZLM12qu-uYOPuqa1Jmg9u1x1U8A121uV2nu-uYOPJ1u_uqGzKqd9o4QxujR&ui=CylNZLTE3HlewmOBcmggHDiE34u_uqljZPJM8SoDMItrnjgXUI7NwHJ2w8Z1K4ljUmOjUbisc8M121l0MIirtIRsc8aV88sYnsi8cgdD7RsfUGiGHsI1K4lYc8Myuqa1orZsKqGz71QVorZ9o0a_orf1eM&consent=1&ddhh=oqdWox&flanding_rdr=
+                  - img [ref=f39e2]
+                - button [ref=f39e4] [cursor=pointer]
+  - contentinfo [ref=e649]:
+    - generic [ref=e650]:
+      - generic [ref=e651]:
+        - link "아이보스 로고" [ref=e654] [cursor=pointer]:
+          - /url: /
+          - img "아이보스 로고" [ref=e655]
+        - generic [ref=e656]:
+          - list [ref=e658]:
+            - listitem [ref=e659]:
+              - link "광고" [ref=e660] [cursor=pointer]:
+                - /url: https://i-boss.gitbook.io/iboss_ad
+            - listitem [ref=e661]:
+              - link "이용약관" [ref=e662] [cursor=pointer]:
+                - /url: ab-policy
+            - listitem [ref=e663]:
+              - link "개인정보 처리방침" [ref=e664] [cursor=pointer]:
+                - /url: https://plip.kr/pcc/55e15c8e-7972-475d-8c59-398337970594/privacy-policy
+            - listitem [ref=e665]:
+              - link "서비스 가이드" [ref=e666] [cursor=pointer]:
+                - /url: https://i-boss.gitbook.io/main/guide
+            - listitem [ref=e667]:
+              - link "광고분쟁조정" [ref=e668] [cursor=pointer]:
+                - /url: https://omdm.i-boss.co.kr
+            - listitem [ref=e669]:
+              - link "권리침해" [ref=e670] [cursor=pointer]:
+                - /url: /ab-right_policy
+            - listitem [ref=e671]:
+              - link "블랙리스트" [ref=e672] [cursor=pointer]:
+                - /url: /ab-6562
+            - listitem [ref=e673]:
+              - link "고객센터" [ref=e674] [cursor=pointer]:
+                - /url: https://i-boss.gitbook.io/main
+          - list [ref=e676]:
+            - listitem [ref=e677]: "(주)아이보스02-862-7643E-mail : help@i-boss.co.kr대표 : 신용성105-87-01912제 2012-서울금천-0373호개인정보 관리책임자 : 유리나"
+            - listitem [ref=e678]: 서울 금천구 벚꽃로 234, 1202호 (가산동 60-25, 에이스하이엔드타워6차)
+      - button "위로가기" [ref=e679] [cursor=pointer]
+  - textbox [ref=e680]
