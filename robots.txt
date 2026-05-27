@@ -1,0 +1,21 @@
+User-agent: Twitterbot
+Disallow: /html/
+Disallow: /html_bbs/
+Disallow: /html_tpl/
+Disallow: /html_event/
+Disallow: /mobile_html/
+
+User-agent: *
+Disallow: /data/
+Disallow: /tpl/
+Disallow: /admin/
+Disallow: /temp/
+Disallow: /html/
+Disallow: /html_tpl/
+Disallow: /html_bbs/
+Disallow: /html_file/
+Disallow: /form/
+Disallow: /inc/
+Disallow: /wys/
+Disallow: /wys2/
+Disallow: /wys2_old/
