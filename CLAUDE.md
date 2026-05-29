@@ -5,8 +5,8 @@ This file provides guidance to Claude Code (claude.ai/code) when working with co
 ## 0. 이 문서 사용법
 이 문서는 저장소의 **Stage**에 따라 일부 섹션이 비활성/활성된다.
 
-- **Stage A — 기획기 (현재)**: 코드 자산 없음. 1·2·3·4·7장만 적용. 5·6장은 Stage B 진입 시 활성될 참고 규약.
-- **Stage B — 구현기**: 코드 자산 도입 후 활성. 5·6장 적용 시작, 4.2장의 코드 작업 분기가 의미를 갖는다.
+- **Stage A — 기획기**: 코드 자산 없음. 1·2·3·4·7장만 적용. 5·6장은 Stage B 진입 시 활성될 참고 규약.
+- **Stage B — 구현기 (현재)**: 코드 자산 도입 완료(`client/`·`server/`). 5·6장 적용 중이며 4.2장의 코드 작업 분기가 유효하다.
 
 4.2장 4단계 절차의 **적용 트리거**:
 - **적용**: 신규 기능 추가, 화면 추가, PRD 장 추가/대규모 개정, (Stage B) 코드 100줄 이상 변경
@@ -14,13 +14,15 @@ This file provides guidance to Claude Code (claude.ai/code) when working with co
 
 ## 1. 저장소 성격
 
-이 저장소는 **코드베이스가 아닌 제품 기획 워크스페이스**다 (Stage A). 빌드/테스트/실행 커맨드는 없으며 다음 산출물만 존재한다.
+이 저장소는 **제품 기획 워크스페이스에서 출발해 구현 코드가 도입된** 단계다 (Stage B). 기획 산출물과 코드 자산이 공존한다.
 
-- `docs/` — 제품 기획 문서 (PRD, 유저플로우)
+- `docs/` — 제품 기획 문서 (PRD, 유저플로우, 화면 시안)
 - `data/` — 카피라이팅 레퍼런스 리서치 데이터
-- `.playwright-mcp/` — Playwright MCP 세션 부산물 (자세한 사항 3장)
+- `client/` — Next.js (App Router) 프론트엔드
+- `server/` — Express + Prisma API 서버
+- `.playwright-mcp/` — Playwright MCP 세션 부산물 (git 미추적, 사용 시 자동 생성)
 
-"기능 구현"·"테스트 추가" 같은 일반 개발 요청보다 **기획 문서 갱신·리서치 분석/요약·새 문서 추가**가 주를 이룬다.
+기획 문서 갱신·리서치 분석/요약과 더불어, 5·6장 규약을 따르는 **코드 구현 작업**이 함께 이뤄진다.
 
 ## 2. 제품 컨텍스트
 
@@ -130,6 +132,7 @@ This file provides guidance to Claude Code (claude.ai/code) when working with co
   - **Anthropic Claude API** — 한국어 카피 생성 및 독창성 평가
   - **네이버 검색광고 API** — SEO 평가용 월간 검색량·연관 키워드 조회
 - **배포**: Next.js는 Vercel, Express 서버는 Railway/Render/Fly.io 중 1곳. 두 서비스 간 통신은 HTTPS + 환경변수로 주입한 API 베이스 URL.
+- **리포 구조**: 루트에 통합 `package.json`이 없다. `client/`·`server/`가 각자 `package.json`·`node_modules`를 갖는 독립 패키지이며, 개발은 터미널 2개(`client` :3000 / `server` :4000)로 구동한다. `.env`·Prisma(스키마·`generated/`)는 모두 `server/` 내부에 자기 완결로 둔다.
 
 스택 변경 제안 전 PRD 수용 기준(99.9% 가용률·독창성 80%·SEO 평가)과의 충돌 여부를 검증한다.
 
@@ -156,8 +159,8 @@ This file provides guidance to Claude Code (claude.ai/code) when working with co
 - App Router 라우트 폴더: `kebab-case/`
 - Express 라우트: `server/routes/<도메인>.ts` (도메인별 라우터 분리)
 - 프론트→백엔드 API 클라이언트: `lib/api/<도메인>Client.ts`
-- Prisma 스키마: `prisma/schema.prisma` (단일 파일). 마이그레이션은 `prisma/migrations/` 자동 생성.
-- Prisma Client 진입점: `server/db/client.ts`에서 단일 인스턴스 export.
+- Prisma 스키마: `server/prisma/schema.prisma` (단일 파일). 마이그레이션은 `server/prisma/migrations/` 자동 생성.
+- Prisma Client 진입점: `server/src/db/client.ts`에서 단일 인스턴스 export (생성물 타입은 `server/generated/prisma/`).
 - 테스트: 대상과 같은 폴더에 `*.test.ts` / `*.test.tsx`
 - 타입: 컴포넌트 내부에 두되, 2곳 이상 공유 시 `types.ts` 분리
 
@@ -182,3 +185,4 @@ This file provides guidance to Claude Code (claude.ai/code) when working with co
 - 한 번에 여러 페이즈 동시 구현.
 - 4.3장 진척 파일 업데이트 건너뛰기.
 - 요청 범위 외 리팩터링·"개선"을 임의로 추가 (4.6장의 동시 정렬은 사용자 확인 후에만 적용).
+

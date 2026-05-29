@@ -1,7 +1,34 @@
 {
   "permissions": {
-    "allow": ["Read", "Grep", "Glob", "Edit"],
-    "ask": ["Bash", "Write", "WebFetch"],
-    "deny": ["BashWithSudo"]
+    "allow": ["Read", "Grep", "Glob", "Edit", "Write"],
+    "ask": ["WebFetch", "Bash"],
+    "deny": ["Bash(sudo:*)", "Bash(sudo *)"]
+  },
+
+  "hooks": {
+    "PostToolUse": [
+      {
+        "matcher": "Edit|Write",
+        "hooks": [
+          {
+            "type": "agent",
+            "prompt": "방금 수정된 파일을 prd-reviewer 관점에서 검토하여 PRD 일치성을 보고하라. tool_input.file_path 가 수정된 파일의 경로이다.",
+            "timeout": 90
+          }
+        ]
+      }
+    ],
+    "Stop": [
+      {
+        "matcher": "",
+        "hooks": [
+          {
+            "type": "agent",
+            "prompt": "git-committer 역할로 현재 작업 디렉터리의 변경 사항을 git에 커밋하라. 의미 있는 커밋 메시지를 작성하라.",
+            "timeout": 60
+          }
+        ]
+      }
+    ]
   }
 }

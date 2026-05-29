@@ -1,0 +1,20 @@
+node_modules
+.env
+.env.local
+
+# Prisma
+server/generated/
+
+# Next.js
+client/.next/
+client/out/
+
+# Server
+server/dist/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Playwright MCP session artifacts
+.playwright-mcp/
